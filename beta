@@ -1,0 +1,4 @@
+
+script_key = getgenv().deceit.Whitelist.KEY
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/007c95a8d36ff021b9d43c9b759ea27e.lua"))()
